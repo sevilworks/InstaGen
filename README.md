@@ -10,3 +10,5 @@ $ git clone https://github.com/Lorginx/InstaGen
 $ cd InstaGen
 
 $ python instagenv1.py
+
+The Password is : amari
