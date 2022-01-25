@@ -9,6 +9,12 @@ $ git clone https://github.com/Lorginx/InstaGen
 
 $ cd InstaGen
 
+$ pip install colorama
+
+$ pip install requests
+
+$ pip install bs4
+
 $ python instagenv1.py
 
 The Password is : amari
